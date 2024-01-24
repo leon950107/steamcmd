@@ -1,5 +1,5 @@
 ############################################################
-# Dockerfile that contains SteamCMD
+# Dockerfile
 ############################################################
 FROM debian:bullseye-slim as build_stage
 
